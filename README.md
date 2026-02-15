@@ -46,3 +46,16 @@ uv run python main.py --preprocess confvs
 - **ps**: Platt Scaling (baseline)
 - **vs**: Vector Scaling (baseline)
 - **none**: Identity (no calibration)
+
+## Citation
+If you find this useful in your research, please consider citing:
+```bash
+@article{
+    xi2025does,
+    title={Does confidence calibration improve conformal prediction?},
+    author={HuaJun Xi and Jianguo Huang and Kangdao Liu and Lei Feng and Hongxin Wei},
+    journal={Transactions on Machine Learning Research},
+    issn={2835-8856},
+    year={2025},
+}
+```
